@@ -5,7 +5,7 @@
 Everything needs to be entered manually for each node
 In the future I would like to use a better io method.
 
-## Better io how to implement io:
+## Better io 
 * pretend that the graph is complete
     * nodes that arent connected get 0 weight
     * basically have an external file with a square of numbers
