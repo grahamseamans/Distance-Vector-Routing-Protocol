@@ -1,3 +1,8 @@
+'''
+Graham Seamans
+Written for internetworking protocols, nothing too fancy
+'''
+
 import sys
 import numpy as np
 
